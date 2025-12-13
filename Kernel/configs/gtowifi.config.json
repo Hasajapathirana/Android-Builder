@@ -5,7 +5,7 @@
       "repo": "https://github.com/LineageOS/android_kernel_samsung_sdm429.git",
       "branch": "lineage-22.2",
       "device": "gtowifi",
-      "defconfig": "‎lineageos_gtowifi_defconfig"
+      "defconfig": "lineageos_gtowifi_defconfig"
     },
     "toolchains": [
       {
